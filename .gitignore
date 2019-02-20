@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/.gitattributes
+/GigHub.sln
+/GigHub/GigHub.csproj
